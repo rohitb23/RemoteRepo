@@ -9,6 +9,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		System.out.println("Go for it ");
 		System.out.println(Calendar.AM_PM);
+		System.out.println("Again");
 	}
 
 }
